@@ -69,5 +69,5 @@ node_modules/
 venv/ 
 
 # jetbeans idea pack
-.idea/
+.idea
 

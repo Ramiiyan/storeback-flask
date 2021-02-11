@@ -67,3 +67,7 @@ node_modules/
 
 # virtual Environment
 venv/ 
+
+# jetbeans idea pack
+.idea/
+
